@@ -26,7 +26,7 @@ OctoAcme projects follow a structured five-phase lifecycle designed to maximize 
 | **Execution** | [Execution & Tracking](./octoacme-execution-and-tracking.md) | Day-to-day execution, team rhythm, quality standards, progress tracking, blocker escalation |
 | **Cross-phase** | [Risk Management & Communication](./octoacme-risks-and-communication.md) | Risk lifecycle, escalation paths, stakeholder communication templates, incident playbooks |
 | **Release** | [Release & Deployment Guide](./octoacme-release-and-deployment.md) | Pre-release requirements, deployment checklists, rollback procedures, release notes |
-| **Close** | [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md) | Retrospective structure, capturing learnings, tracking action items, improvement cues |
+| **Close** | [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md) | Retrospective structure, capturing learnings, tracking action items, improvement culture |
 | **Reference** | [Roles & Personas](./octoacme-roles-and-personas.md) | Detailed role definitions, responsibilities, goals, and communication patterns |
 
 ## Core Roles
@@ -80,7 +80,7 @@ Provide business context, approvals, strategic direction, and feedback throughou
 
 2. **For planning:** Use [Project Planning](./octoacme-project-planning.md) to break work into increments and build your backlog.
 
-3. **During execution:** Reference [Execution & Tracking](./octoacme-execution-and-tracking.md) for day-to-day guidance and [Risk Management & Communication](./octoacme-risks-and-communication.md) for handling risks and stakeholder updates.
+3. **During execution:** Reference [Execution & Tracking](./octoacme-execution-and-tracking.md) for day-to-day guidance and [Risk Management & Communication](./octoacme-risks-and-communication.md) for handling dependencies.
 
 4. **Before release:** Follow [Release & Deployment Guide](./octoacme-release-and-deployment.md) to ensure quality and reduce risk.
 
@@ -99,10 +99,8 @@ Each process document includes practical templates and checklists:
 
 ## Questions or Updates?
 
-If you have questions about these processes or want to suggest updates, please refer to the [Process Doc Update issue template](.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) to propose changes or additions.
+If you have questions about these processes or want to suggest updates, please refer to the [Process Doc Update issue template](.github/ISSUE_TEMPLATE/add-update-content-to-process-docs.yml) to propose changes.
 
 ---
-
-**This README was created to address issue #2.**
 
 **Last updated:** August 2026 | **Maintained by:** OctoAcme Project Management Team
